@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    background-color: 	#D953FF;
+}
+a{
+color: #B6FF00;
+text-decoration: none;
+}
+a:hover{
+    color: #53FF9E;
+}
+h1{
+color: 	#D953FF;
+}
+h1:hover{
+color: black;
+transition: 2s color linear;
+}
+p:hover{
+color: #9E00CB;
+}
