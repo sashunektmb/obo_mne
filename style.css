@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    background-color: 	#D953FF;
+}
+a{
+color: #B6FF00;
+text-decoration: none;
+}
+a:hover{
+    color: #53FF9E;
+}
+h1{
+color: 	black;
+}
+h1::before{
+content: url(http://img0.reactor.cc/pics/post/Sucrose-%28Genshin-Impact%29-Genshin-Impact-%D1%84%D1%8D%D0%BD%D0%B4%D0%BE%D0%BC%D1%8B-widea7-6272164.png);
+width: 100px;
+height: 100px;
+}
+li:hover{
+color: #C0F400;
+transition: 1s color linear;
+}
